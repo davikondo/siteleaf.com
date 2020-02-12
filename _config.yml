@@ -1,6 +1,6 @@
 ---
 title: Siteleaf
-timezone: America/New_York
+timezone: America/Sao_Paulo
 collections:
   gallery:
     title: Gallery
